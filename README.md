@@ -19,3 +19,18 @@ It provides a smooth shopping experience with a responsive design and interactiv
 ## 🖼️ Preview
 
 ![LuxMax Screenshot](./LooksMax.png)
+
+
+
+🌐 Live Demo
+https://lnkd.in/g2rZCxu3
+
+
+
+👨‍💻 Author
+
+Aman Uniyal
+
+LinkedIn🔗
+
+GitHub🔗

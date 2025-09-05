@@ -17,6 +17,5 @@ It provides a smooth shopping experience with a responsive design and interactiv
 ---
 
 ## 🖼️ Preview
-*(Add a screenshot of your homepage here for better presentation)*  
-```html
-(./LooksMax.png)
+
+![LuxMax Screenshot](./LooksMax.png)
